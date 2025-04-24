@@ -1,6 +1,6 @@
 ## **Hello There** *(General Kenobi?)* 
 
-- I'm Rafael Fierro. Petroleum Engineer transitioning to Data Engineering. Passionate about what Data tells us📊, about Football⚽, Basketball🏀, Sci-Fi🖖 and Cooking🍕.
+- I'm Rafael Fierro. Petroleum Engineer transitioning to Data Engineering. Passionate about what Data tells us📊, about Football⚽, Basketball🏀, Sci-Fi🖖 and Baking Pizza🍕.
 
 - 📍 **Location:** Neiva, Colombia</a> 🇨🇴
 - 📧 **Email:** [rafaelfierrodiaz30@gmail.com](mailto:rafaelfierrodiaz30@gmail.com)
